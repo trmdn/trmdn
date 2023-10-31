@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Linux Systems, Windows Systems, Ethical Hacking**
 
-- 📫 How to reach me **trmdn0@duck.com**
+- 📫 How to reach me **trmdn0@duck.com** **trmdn0@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
